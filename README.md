@@ -4,6 +4,7 @@ Shark Tank India – Startup Investment Analysis
 A full-scale data analytics project exploring startup funding patterns, investor behavior, and founder trends using Shark Tank India data. The project utilizes Power BI for advanced visualizations and insights.
 
 Dataset
+-------
 File: Cleaned_Shark_Tank_India.csv
 
 Contains details about:
@@ -16,7 +17,8 @@ Deal status, ask amount, equity offered
 
 Deal amounts and investor participation
 
-🎯 Objectives
+Objectives
+----------
 Analyze startup funding by industry
 
 Visualize investor patterns and deal overlap
@@ -25,7 +27,8 @@ Identify founder success patterns (solo vs team)
 
 Explore deal success based on ask equity, funding stage
 
-🛠️ Tools Used
+Tools Used
+----------
 Power BI: Visual dashboard, filters, KPIs
 
 Python (Pandas): Data cleaning, column engineering
@@ -33,6 +36,7 @@ Python (Pandas): Data cleaning, column engineering
 Excel: Initial inspections, formatting
 
 Power BI Visuals
+----------------
 #	Visual	Description
 1	KPI Cards	Total Pitches, Deals, and Investment
 2	Bar Chart	Funding Amount by Industry
@@ -46,6 +50,7 @@ Power BI Visuals
 10	Donut Chart	Solo vs Co-Founder Success
 
 Key Insights
+------------
 Certain industries attract higher investment consistently
 
 A group of core investors appear across many deals (Ashneer, Aman, etc.)
